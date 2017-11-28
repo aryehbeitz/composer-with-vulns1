@@ -1,0 +1,19 @@
+{
+    "name" : "vulnerable/project1",
+    "require": {
+        "aws/aws-sdk-php": "3.0.0",
+        "bugsnag/bugsnag-laravel": "2",
+        "cartalyst/sentry": "2.1",
+        "codeigniter/framework": "3.0.6",
+        "doctrine/common": "2.5.0",
+        "typo3/cms": "6.2.0",
+        "zendframework/zend-json": "2.1.0",
+        "zendframework/zend-xmlrpc": "2.1.0",
+        "silverstripe/cms": "3.1.0",
+        "simplesamlphp/simplesamlphp": "1.14.3",
+        "symfony/form": "2.3.0",
+        "symfony/security": "2.7.30",
+        "symfony/security-http": "2.6.0",
+        "zendframework/zendframework1": "1.12.0"
+    }
+}
